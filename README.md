@@ -10,10 +10,10 @@ Despite their challenges, generative AI chatbots offer great potential for enhan
 
 ^^^^ copied from ChatGPT
 
-6 components are there i GenAI chatbot
+6 components are there in GenAI chatbot
 
 1. System - it sets behavior of the chatbot (friendly, karen, rude)
-2. User - role that end use will get
+2. User - role that end user will get
 3. Assistant - role which chatmodel will try to mimic
 4. Context - Series of messages given before starting the chatbot and user conversation, you can give like - you are working in a pizza restaurent, serve all users wholeheartedly
    except Mike, he does not order, he just waste time.
